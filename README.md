@@ -51,7 +51,7 @@ or
 which will show the following output
 
 ![
-  music (master #) > node parse-google-play.js
+  music (master #) > node analyze-google-play.js
   Parsing /Users/replaceits/Documents/Programming/google-play-music-wrap-up-tools/GooglePlayMusic.html
   Done parsing
   Writing to /Users/replaceits/Documents/Programming/google-play-music-wrap-up-tools/GooglePlayMusic.json
@@ -109,14 +109,14 @@ which will show the following output
   Top 10 Artists
   1: Travis Scott			Count: 258
   2: McCafferty			Count: 231
-  3: YTCracker			Count: 230
-  4: NAV				Count: 223
-  5: Joji				Count: 185
-  6: A L E X			Count: 185
-  7: Posture & the Grizzly	Count: 184
-  8: Juice WRLD			Count: 176
-  9: Lil Uzi Vert			Count: 172
-  10: Lil Skies			Count: 153
+  3: NAV				Count: 223
+  4: Joji				Count: 185
+  5: A L E X			Count: 185
+  6: Posture & the Grizzly	Count: 184
+  7: Juice WRLD			Count: 176
+  8: Lil Uzi Vert			Count: 172
+  9: Lil Skies			Count: 153
+  10: Old Gray      Count: 151
   \n
   Top 10 Songs
   1: Kill Me - Posture & the Grizzly				Count: 53
@@ -131,3 +131,5 @@ which will show the following output
   10: Black & White - Juice WRLD					Count: 29
   google-play-music-wrap-up-tools (master) >
 ](images/Analyze.png)
+
+Feel free to fork and have fun analyzing your own data!
